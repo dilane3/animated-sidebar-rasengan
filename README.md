@@ -4,11 +4,15 @@ This is an example of how you can make a sidebar with a nice open/close animatio
 
 ## Demo
 
-Click on the image below to see the demo video 👇
-
-[![Watch the video](./src/assets/pic.png)](./src/assets/demo.mp4)
+![Watch the video](./src/assets/pic.gif)
 
 ## Links
+
+### Project
+
+- Live Demo: [animated-sidebar-example](https://animated-sidebar-sigma.vercel.app/)
+
+### Author
 
 - Portfolio: [dilane3.com](https://dilane3.com)
 - Twitter: [@DilaneKombou](https://twitter.com/DilaneKombou)
